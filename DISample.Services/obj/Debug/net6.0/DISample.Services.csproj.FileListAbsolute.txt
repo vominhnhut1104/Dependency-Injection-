@@ -1,0 +1,12 @@
+D:\Công Nghệ Net\sample\DISample\DISample.Services\bin\Debug\net6.0\DISample.Services.deps.json
+D:\Công Nghệ Net\sample\DISample\DISample.Services\bin\Debug\net6.0\DISample.Services.dll
+D:\Công Nghệ Net\sample\DISample\DISample.Services\bin\Debug\net6.0\DISample.Services.pdb
+D:\Công Nghệ Net\sample\DISample\DISample.Services\obj\Debug\net6.0\DISample.Services.csproj.AssemblyReference.cache
+D:\Công Nghệ Net\sample\DISample\DISample.Services\obj\Debug\net6.0\DISample.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Công Nghệ Net\sample\DISample\DISample.Services\obj\Debug\net6.0\DISample.Services.AssemblyInfoInputs.cache
+D:\Công Nghệ Net\sample\DISample\DISample.Services\obj\Debug\net6.0\DISample.Services.AssemblyInfo.cs
+D:\Công Nghệ Net\sample\DISample\DISample.Services\obj\Debug\net6.0\DISample.Services.csproj.CoreCompileInputs.cache
+D:\Công Nghệ Net\sample\DISample\DISample.Services\obj\Debug\net6.0\DISample.Services.dll
+D:\Công Nghệ Net\sample\DISample\DISample.Services\obj\Debug\net6.0\refint\DISample.Services.dll
+D:\Công Nghệ Net\sample\DISample\DISample.Services\obj\Debug\net6.0\DISample.Services.pdb
+D:\Công Nghệ Net\sample\DISample\DISample.Services\obj\Debug\net6.0\ref\DISample.Services.dll
